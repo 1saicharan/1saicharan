@@ -1,4 +1,4 @@
-
+#this is comment for this code
 
 import random
 c=random.randint(1,100)
