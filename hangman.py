@@ -271,7 +271,7 @@ def show_possible_matches(my_word):
              that has already been revealed.
 
     '''
-     lis = []
+    lis = []
     for q in wordlist:
     
         if len(my_word) == len(q):
