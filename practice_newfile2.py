@@ -5,7 +5,7 @@ c=random.randint(1,100)
 k=0
 g=0
 while g!=c:
-
+    print('Hi this is  a game of guessing the number')
     print('guess the number until you are correct')
     print ("so now guess the number.. ")
     g = int(input("guess the number"))
