@@ -1,5 +1,5 @@
 #this is comment for this code
-
+import string
 import random
 c=random.randint(1,100)
 k=0
