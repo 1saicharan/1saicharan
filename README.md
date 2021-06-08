@@ -1,3 +1,4 @@
-# 1saicharan
-# 1saicharan
-# 1saicharan
+# this repository contains codes i created
+ this has hangman code
+ this has tic tac toe
+ guessing the number
